@@ -6,6 +6,9 @@
 (2) Illumination enhancement network (EnhanceNet) to enhance the illumination map of the input low-light image; \
 (3) Color recovery network (ColorNet) to recover color of the input image.
 
+## Results
+<img width="786" height="336" alt="Comparison" src="https://github.com/user-attachments/assets/b70745a1-09b2-45df-a1ba-d13b60da3b40" />
+
 ## Citation
 ```bash
 @inproceedings{lu2026llienet,
